@@ -1,1 +1,1 @@
-### [Python](https://wikidocs.net/book/1)
+#### [Python study](https://wikidocs.net/book/1)
